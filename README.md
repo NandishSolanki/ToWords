@@ -2,12 +2,12 @@
 Convert camelcase string to words
 
 ## Install
-``` npm install --save to-words```
+``` npm install --save split-camelcase-to-words```
 
 ## Import
-``` var nr = require('to-words'); ``` 
+``` var toWords = require('split-camelcase-to-words'); ``` 
 <br/> or <br/>
-``` import toWords from 'to-words'; ```
+``` import toWords from 'split-camelcase-to-words'; ```
 
 ## Use
 
