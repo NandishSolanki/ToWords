@@ -1,0 +1,10 @@
+# ide files
+.idea
+
+# Dependency directories
+node_modules
+tests
+
+package-lock.json
+*.iml
+.travis.yml

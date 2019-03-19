@@ -1,4 +1,4 @@
-# To-Words [![Build Status](https://travis-ci.org/NandishSolanki/ToWords.svg?branch=master)](https://travis-ci.org/NandishSolanki/ToWords)
+# Split-CamelCase-To-Words [![Build Status](https://travis-ci.org/NandishSolanki/ToWords.svg?branch=master)](https://travis-ci.org/NandishSolanki/ToWords)
 Convert camelcase string to words
 
 ## Install
