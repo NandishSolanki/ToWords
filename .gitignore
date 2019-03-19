@@ -1,0 +1,8 @@
+# ide files
+.idea
+
+# Dependency directories
+node_modules
+
+package-lock.json
+*.iml

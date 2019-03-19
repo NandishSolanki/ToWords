@@ -1,0 +1,29 @@
+{
+  "name": "to-words",
+  "version": "1.0.0",
+  "description": "Utility to split words from camel case strings or continuous strings",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "24.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NandishSolanki/ToWords.git"
+  },
+  "keywords": [
+    "camelcase",
+    "words",
+    "string",
+    "split"
+  ],
+  "author": "Nandish Solanki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NandishSolanki/ToWords/issues"
+  },
+  "homepage": "https://github.com/NandishSolanki/ToWords#readme"
+}
